@@ -1,7 +1,7 @@
 # Hi, I'm Jakob Cruz
 Senior Software Engineer based in **Victoria, BC**. I build and scale modern cloud applications and enjoy simplifying complexity with clean architecture, smart automation, and strong developer experience.
 
-- **Email**: `jakobpaulcruz@gmail.com`
+- **Address**: `Vancouver, BC, Canada`
 - **LinkedIn**: [jakob-paul-cruz](https://www.linkedin.com/in/jakob-paul-cruz)
 
 ## What I do
